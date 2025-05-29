@@ -1,0 +1,58 @@
+.HEAD
+{
+  display: flex;
+  align-items: center;
+  gap: 70px;
+  background-color: white;
+}
+body{
+  background-color: #0f172a;
+}
+p{
+    width: 800px;
+    margin-left: 450px;
+}
+.NSSLOGO{
+    width: 80PX;
+    height: auto;
+    
+}
+.mybharat-logo{
+    width:100px;
+    margin-right: 240px;;
+}
+
+#nss{
+    font-weight: 600;
+    font-size: xxx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+    margin-right:20px;
+}
+#banner{
+    width: 1500px;
+    height: auto;
+    margin-bottom: 50px;
+}
+.about{
+font-family: "Big Shoulders", sans-serif;
+  font-family: "DM Sans";
+ text-align: justify;
+    color:white;
+
+  border-radius:10px;
+  padding:10px;
+ 
+ 
+
+}
+#welcome{
+    color:#f97316;
+  margin-left: 500px;
+  border:#f97316 solid 2px;
+  border-width: 1px;
+}
+.info{
+    text-align: center;
+    
+}
